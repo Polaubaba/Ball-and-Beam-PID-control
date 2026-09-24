@@ -13,7 +13,7 @@ idk do something
 ## Build Quality
 
 This shi just balances the ball.
-![Ball and Beam system architecture](path/to/image.png)
+![Ball and Beam system architecture](ballandbeam.png)
 
 ## 😝 YouTube Video
 
